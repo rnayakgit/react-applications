@@ -1,0 +1,23 @@
+.index-h1-div {
+
+  text-align: center;
+  font-weight: bold;
+
+
+}
+th, td {
+  border: 1px solid black;
+  padding: 5px;
+
+}
+
+.table {
+  align-content: center;
+  border-style: solid;
+  border-spacing: 15px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
